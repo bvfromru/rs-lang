@@ -1,48 +1,17 @@
-Для обновления своей ветки (feature) от ветки develop нужно перейти в ветку develop, сделать git pull, затем перейти в ветку feature и сделать git merge develop
+RS School JavaScript/Front-end 2021Q3 study command project. "RS Lang" - a web application for learning English by viewing repeated words and playing minigames (similar to Lingualeo).
+Participation	- Created a responsive design for application.
+- Developed two minigames - Sprint and Savannah.
+- Created User Interface, animations and developed games logic.
+- Created reusable components.
+- Performed manual functional testing.
+- Consulted other developers to resolve different issues.
+Team	Dev Team: 2 members, 1 tech-lead
+Database:	Mongo DB
+Tools:	Webpack, Git, VS Code, ESLint
+Technologies:	HTML, SCSS, TS, React/Redux, JSON
 
-# Getting Started with Create React App
+Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md  
+Deploy: https://bvfromru.github.io/  
+Backend:  https://react-learn-words-rs-school.herokuapp.com 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image_2022-03-04_121714](https://user-images.githubusercontent.com/18407108/156725650-05816696-51dd-4399-b722-52bc3466a09b.png)
