@@ -11,7 +11,7 @@ Tools:	Webpack, Git, VS Code, ESLint
 Technologies:	HTML, SCSS, TS, React/Redux, JSON
 
 Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md  
-Deploy: https://bvfromru.github.io/  
+Deploy: https://bvfromru.github.io/rs-lang  
 Backend:  https://react-learn-words-rs-school.herokuapp.com 
 
 ![Opera Snapshot_2022-03-04_123718_bvfromru github io](https://user-images.githubusercontent.com/18407108/156728642-4d47d639-5173-4d38-883f-76049f988129.png)
