@@ -16,3 +16,26 @@ Backend:  https://react-learn-words-rs-school.herokuapp.com
 
 ![Opera Snapshot_2022-03-04_123718_bvfromru github io](https://user-images.githubusercontent.com/18407108/156728642-4d47d639-5173-4d38-883f-76049f988129.png)
 
+## Utilized technologies overview
+
+### Stack
+- Typescript
+- React
+- Redux
+
+### Build tool
+- Webpack
+
+### Styling
+- SCSS
+- Bootstrap icons
+
+### Code quality
+- Eslint
+- Prettier
+
+### Additional libraries
+- React-router
+- React-redux
+- Redux-thunk
+- Chart.js
