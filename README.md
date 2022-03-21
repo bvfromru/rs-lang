@@ -18,10 +18,16 @@ Backend:  https://react-learn-words-rs-school.herokuapp.com
 
 ## Utilized technologies overview
 
-### Stack
+### Frontend
 - Typescript
 - React
 - Redux
+- GitHub gh-pages
+
+### Backend
+- NodeJS
+- MongoDB
+- Heroku
 
 ### Build tool
 - Webpack
@@ -37,5 +43,5 @@ Backend:  https://react-learn-words-rs-school.herokuapp.com
 ### Additional libraries
 - React-router
 - React-redux
-- Redux-thunk
 - Chart.js
+- Ant-design
